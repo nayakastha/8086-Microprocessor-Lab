@@ -1,6 +1,6 @@
-# MFP Lab Tasks
+# MPMC Lab Tasks
 
-Microprocessor Fundamental and Programming subject lab tasks sem 5.
+Microprocessor and Microcontroller - 8086 Microprocessor - Lab Tasks Sem 5.
 
 ## Lab 1
 
